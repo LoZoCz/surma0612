@@ -1,0 +1,30 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td, table{
+    border: 2px solid lightgrey;
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+img{
+    height: 70px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+}
+
+th{
+    color: white;
+    background: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+td{
+    padding: 5px;
+}

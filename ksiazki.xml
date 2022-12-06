@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<katalog>
+    <ksiazka>
+        <autor>Janina Brzostowska</autor>
+        <tytul>"Lubuskie dziewanny"</tytul>
+        <wydawnictwo>Ludowa Spółdzielnia Wydawnicza</wydawnictwo>
+        <rok_wydania>1987</rok_wydania>
+        <cena>10zł</cena>
+        <okladka>okladka1.jpg</okladka>
+    </ksiazka>
+    <ksiazka>
+        <autor>Janina Katz</autor>
+        <tytul>"Pucka"</tytul>
+        <wydawnictwo>Jacek Santorski Co</wydawnictwo>
+        <rok_wydania>2008</rok_wydania>
+        <cena>38zł</cena>
+        <okladka>okladka2.jpg</okladka>
+    </ksiazka>
+    <ksiazka>
+        <autor>Wilhelm Dilthey</autor>
+        <tytul>"O istocie filozofii"</tytul>
+        <wydawnictwo>PWN</wydawnictwo>
+        <rok_wydania>1987</rok_wydania>
+        <cena>12zł</cena>
+        <okladka>okladka3.jpg</okladka>
+    </ksiazka>
+</katalog>
